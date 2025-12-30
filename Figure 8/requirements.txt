@@ -1,0 +1,30 @@
+Libraries Used in HH_OneAP_jax.py
+=====================================
+
+Third-Party Libraries:
+----------------------
+numpy>=1.24.0,<2.0.0
+jax==0.4.38
+jaxlib==0.4.38
+diffrax==0.7.0
+matplotlib==3.9.2
+pandas==2.2.3
+SALib==1.5.1
+
+Standard Library Modules:
+--------------------------
+functools (Python standard library)
+multiprocessing (Python standard library)
+concurrent.futures (Python standard library)
+os (Python standard library)
+warnings (Python standard library)
+signal (Python standard library)
+sys (Python standard library)
+glob (Python standard library)
+atexit (Python standard library)
+time (Python standard library)
+gc (Python standard library)
+
+Python Version:
+---------------
+Python 3.12.4
